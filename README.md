@@ -1,2 +1,2 @@
 # LP1
-Trabalho cadeira LP1, IPCA
+Trabalho prático da cadeira Linguagens de Programação 1, IPCA
